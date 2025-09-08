@@ -1,9 +1,9 @@
-# Account & Personal Data Deletion Request – MentorIQ
+# Account & Personal Data Deletion Request – MentoIQ
 
-If you wish to permanently delete your MentorIQ account and associated personal data, you may:
+If you wish to permanently delete your MentoIQ account and associated personal data, you may:
 
 1. Use the in‑app account deletion option (if available in Settings).
-2. Email us directly at: **mento.iq@gmail.com** (recommended subject: **“MentorIQ Account Deletion Request”**).
+2. Email us directly at: **mento.iq@gmail.com** (recommended subject: **“MentoIQ Account Deletion Request”**).
 3. Copy, complete, and send the form below via email.
 
 > Note: Once processed, deletion is irreversible. Certain limited data may be retained temporarily only where required by law (e.g. fraud prevention, taxation, security logs) and then purged automatically.
@@ -19,7 +19,7 @@ If you wish to permanently delete your MentorIQ account and associated personal 
 - Reason for Deletion (optional):
 
 Declaration:
-> I request the deletion of my MentorIQ account and all associated personal data in accordance with the Privacy Policy and applicable data protection regulations (e.g. GDPR, if applicable). I understand this action is irreversible.
+> I request the deletion of my MentoIQ account and all associated personal data in accordance with the Privacy Policy and applicable data protection regulations (e.g. GDPR, if applicable). I understand this action is irreversible.
 
 Date (YYYY-MM-DD):
 Signature / Typed Name (typing your full legal name counts as a digital signature):
@@ -43,7 +43,7 @@ Signature / Typed Name (typing your full legal name counts as a digital signatur
 - If AI‑powered features (e.g. chat or recommendation generation) produced anonymized or aggregated analytical artifacts, these are either deleted along with your account data or retained only in a form that cannot be linked back to you.
 
 ## Irreversibility
-- After deletion completes, your account cannot be restored. You would need to register again to use MentorIQ.
+- After deletion completes, your account cannot be restored. You would need to register again to use MentoIQ.
 
 ## Legal / Compliance Exceptions
 - We may retain minimal records strictly required for:
